@@ -28,15 +28,22 @@
 - Insight Generation
 
 # Tasks Performed In Power BI:
+- Data Collection
 - Data Cleaning
-- Data Aggregation
-- Created bar chart for Count of Orders by Hours
-- Created bar chart for Revenue by Months
-- Created pie chart for Food Type by Revenue (Veg and Non-Veg pizzas)
-- Created pie chart for Category Wise Revenue (Veggie, Chicken, Classic, Supreme)
-- Created pie chart for Size Wise Revenue (Small, Medium, Large, Extra Large)
-- Designed the dashboard layout
-- Added labels, titles, and legends
+- Data Analysis
+- Visualization Design
+- Interactivity
+- Data Categorization
+- Color Coding
+- Validation
+- Created line chart for Yearly Head Count
+- Created line chart for Yearly Attrition
+- Created a summary of key metrics (average salary, average age, etc.)
+- Created a detailed employee table
+- Added columns for EmpID, Employee Name, Age, Department, Gender, Manager Name, Marital Status, Position, State, Citizenship, Salary
+- Applied conditional formatting for visual emphasis
+- Provided sorting and filtering options
+- Validated the data for accuracy and consistency
 
 ## Don't Forget to follow me on <a href= "https://www.linkedin.com/in/shubham-dabi-9175992b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzwKecuw4RcqtZJIfbfkl%2Fg%3D%3D">Linkedin</a>
 
